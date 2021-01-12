@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Subodh Bijwe
 
-You can use the [editor on GitHub](https://github.com/subodh-bijwe/subodh.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am a researcher at IIT Ropar currently pursuing Master's in Artificial Intelligence. My research interests include (but not limited to) Machine Learning, Quantum Computing, Artificial Intelligence, Game Theory, Computer Vision, Cryptography, Quantum ML, Social Networking.
 
 ### Markdown
 
